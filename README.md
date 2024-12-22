@@ -1,7 +1,7 @@
 <div align="center">
-  <h1> xxxxx 共学 </h1>
+  <h1>sui-ai-agent 共学 </h1>
 
- <p> xxxxx  的目标是 xxx， 学习 xxxx  可以 xxxxx 。</p>
+ <p> 通过这次共学，你会学习到如何构建一个和 sui 链上交互的 AI Agent。</p>
 
  <p>
     <a href="https://github.com/CreatorsDAO"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
@@ -14,48 +14,27 @@
 
 参与这个共学需要知道
 
-1. 如何友好交流
-2. 如何使用 github
-3. ...
+1. 如何使用 github
+2. 熟练使用一种开发语言, Js 最佳
 
 ## 共学模块
 
 ### 模块一
 
-1. ....
-2. .....
-3. ......
-
-资料: https://
+1. 类 OpenAI 的交互方式
+2. 使用程序运用提示词完成 AI 接口交互
 
 ### 模块二
 
-1. ....
-2. .....
-3. ......
+1. Agent 记忆功能RAG
+2. Agent 工具调用，扩展函数 (和 SUI 结合)
 
-资料: https://
 
 ### 模块三
 
-1. ....
-2. .....
-3. ......
+1. Agent AI 工作流
+2. Agent 间互相调用
 
-资料: https://
-
-### 模块四
-
-1. ....
-2. .....
-3. ......
-
-资料: https://
-
-## 参考链接
-
-1.
-2.
 
 ## 共学产出
 
