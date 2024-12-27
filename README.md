@@ -48,7 +48,7 @@
 
 ## Links
 
-[invariantlabs](https://explorer.invariantlabs.ai/)
-[elilza](https://elizaos.github.io/eliza/)
-[rig.rs](https://docs.rig.rs/)
-[swarm](https://github.com/openai/swarm)
+- [invariantlabs](https://explorer.invariantlabs.ai/)
+- [elilza](https://elizaos.github.io/eliza/)
+- [rig.rs](https://docs.rig.rs/)
+- [swarm](https://github.com/openai/swarm)
