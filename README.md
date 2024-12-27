@@ -21,19 +21,19 @@
 
 ### 模块一
 
-1. 类 OpenAI 的交互方式
-2. 使用程序运用提示词完成 AI 接口交互
+1. 编写程序调用模型（类-OpenAI）
+2. 使用 Structure JSON 进行数据交互
 
 ### 模块二
 
-1. Agent 记忆功能RAG
-2. Agent 工具调用，扩展函数 (和 SUI 结合)
-
+1. Agent 工具调用
+2. Agent 查询/获取外部数据
+3. Agent 记忆功能
 
 ### 模块三
 
-1. Agent AI 工作流
-2. Agent 间互相调用
+1. 介绍 AI Agent Eliza 框架
+2. 部署运行支持 Sui 的 ElizaOS
 
 
 ## 共学产出
