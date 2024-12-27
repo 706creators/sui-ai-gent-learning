@@ -21,19 +21,19 @@
 
 ### 模块一
 
-1. 类 OpenAI 的交互方式
-2. 使用程序运用提示词完成 AI 接口交互
+1. 编写程序调用模型（类-OpenAI）
+2. 使用 Structure JSON 进行数据交互
 
 ### 模块二
 
-1. Agent 记忆功能RAG
-2. Agent 工具调用，扩展函数 (和 SUI 结合)
-
+1. Agent 工具调用
+2. Agent 查询/获取外部数据
+3. Agent 记忆功能
 
 ### 模块三
 
-1. Agent AI 工作流
-2. Agent 间互相调用
+1. 使用 Agent 操作 SUI 钱包
+2. 介绍现有 Agent 框架
 
 
 ## 共学产出
