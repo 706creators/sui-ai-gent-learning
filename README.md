@@ -43,3 +43,12 @@
 ## 共学 QA
 
 [discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
+
+
+
+## Links
+
+[invariantlabs](https://explorer.invariantlabs.ai/)
+[elilza](https://elizaos.github.io/eliza/)
+[rig.rs](https://docs.rig.rs/)
+[swarm](https://github.com/openai/swarm)
