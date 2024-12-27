@@ -32,8 +32,8 @@
 
 ### 模块三
 
-1. 介绍 AI Agent Eliza 框架
-2. 部署运行支持 Sui 的 ElizaOS
+1. 使用 Agent 操作 SUI 钱包
+2. 介绍现有 Agent 框架
 
 
 ## 共学产出
