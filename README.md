@@ -27,14 +27,16 @@
 ### 模块二
 
 1. Agent 工具调用
-2. Agent 查询/获取外部数据
-3. Agent 记忆功能
+2. Agent 记忆功能 RAG
 
 ### 模块三
 
 1. 使用 Agent 操作 SUI 钱包
 2. 介绍现有 Agent 框架
 
+### 模块四
+
+项目周
 
 ## 共学产出
 
@@ -48,7 +50,9 @@
 
 ## Links
 
-- [invariantlabs](https://explorer.invariantlabs.ai/)
+- [sui](https://github.com/MystenLabs/sui)
+- [sdk.vercel.ai](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
 - [elilza](https://elizaos.github.io/eliza/)
 - [rig.rs](https://docs.rig.rs/)
 - [swarm](https://github.com/openai/swarm)
+- [invariantlabs](https://explorer.invariantlabs.ai/)
