@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>sui-ai-agent 共学 </h1>
+  <h1>sui-ai-agent 共学 🤖</h1>
 
- <p> 通过这次共学，你会学习到如何构建一个和 sui 链上交互的 AI Agent。</p>
+ <p> 通过这次共学，你会学习到如何构建一个和 sui 链上交互的 AI Agent。✨</p>
 
  <p>
     <a href="https://github.com/CreatorsDAO"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
@@ -10,16 +10,16 @@
 
 </div>
 
-## 共学前置
+## 共学前置 📚
 
 参与这个共学需要知道
 
-1. 如何使用 github
-2. 熟练使用一种开发语言, Js 最佳
+1. 如何使用 github 🐙
+2. 熟练使用一种开发语言, Js 最佳 💻
 
-## 共学模块
+## 共学模块 📝
 
-### 模块一
+### 模块一 🎯
 
 1. 编写程序调用模型（类-OpenAI）
 
@@ -29,7 +29,7 @@
 
 格式化 `llm` 的输入输出参数的格式化。
 
-### 模块二
+### 模块二 🔍
 
 1. Agent 工具调用
 
@@ -39,7 +39,7 @@ function calling 的调用
 
 使用 `RAG` 进行本地资料库存储及向 `llm` 的传递。
 
-### 模块三
+### 模块三 🛠️
 
 1. 使用 Agent 操作 SUI 钱包
 
@@ -49,21 +49,19 @@ function calling 的调用
 
 介绍 `Eliza` 等 Agent 框架的使用。
 
-### 模块四
+### 模块四 🚀
 
 项目周
 
-## 共学产出
+## 共学产出 🎉
 
 按照 [项目模版](https://github.com/orgs/CreatorsDAO/discussions/60) 创建自己的 demo 项目，共学结束的时候参与 demo day。
 
-## 共学 QA
+## 共学 QA ❓
 
 [discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
 
-
-
-## Links
+## Links 🔗
 
 - [sui](https://github.com/MystenLabs/sui)
 - [sdk.vercel.ai](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
