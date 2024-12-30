@@ -22,17 +22,32 @@
 ### 模块一
 
 1. 编写程序调用模型（类-OpenAI）
+
+使用 `curl` 或者 `openai` 的 sdk 进行 `llm` 调用。
+
 2. 使用 Structure JSON 进行数据交互
+
+格式化 `llm` 的输入输出参数的格式化。
 
 ### 模块二
 
 1. Agent 工具调用
+
+function calling 的调用
+
 2. Agent 记忆功能 RAG
+
+使用 `RAG` 进行本地资料库存储及向 `llm` 的传递。
 
 ### 模块三
 
 1. 使用 Agent 操作 SUI 钱包
+
+通过 `Agent` 扩展完成 `SUI` 钱包的创建、转账、查询余额等操作。
+
 2. 介绍现有 Agent 框架
+
+介绍 `Eliza` 等 Agent 框架的使用。
 
 ### 模块四
 
