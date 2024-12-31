@@ -45,9 +45,9 @@ function calling 的调用
 
 通过 `Agent` 扩展完成 `SUI` 钱包的创建、转账、查询余额等操作。
 
-2. 介绍现有 Agent 框架
+2. AI Agent 案例分享
 
-介绍 `Eliza` 等 Agent 框架的使用。
+AI Agent 框架及案例分享。
 
 ### 模块四 🚀
 
