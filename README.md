@@ -21,7 +21,7 @@
 
 ### 模块一 🎯
 
-1. 编写程序调用模型（类-OpenAI）
+1. [编写程序调用模型（类-OpenAI）](w1/README.md)
 
 使用 `curl` 或者 `openai` 的 sdk 进行 `llm` 调用。
 
