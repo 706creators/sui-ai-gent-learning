@@ -63,7 +63,7 @@ AI Agent 框架及案例分享。
 
 ## Links 🔗
 
-- [sui](https://github.com/MystenLabs/sui)
+- [sui(github)](https://github.com/MystenLabs/sui)
 - [sdk.vercel.ai](https://sdk.vercel.ai/docs/ai-sdk-core/tools-and-tool-calling)
 - [elilza](https://elizaos.github.io/eliza/)
 - [rig.rs](https://docs.rig.rs/)
