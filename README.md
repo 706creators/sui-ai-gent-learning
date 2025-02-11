@@ -45,6 +45,8 @@ function calling 的调用
 
 通过 `Agent` 扩展完成 `SUI` 钱包的创建、转账、查询余额等操作。
 
+案例涉及到的 plugin-sui 代码： [plugin-sui](./plugin-sui/)
+
 2. AI Agent 案例分享
 
 AI Agent 框架及案例分享。
